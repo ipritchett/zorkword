@@ -10,3 +10,5 @@ invalid_command_response = [
     "I'm not sure what %s means.",
     "If you want to %s, I can't help you."
 ]
+
+NO_ENGRAVINGS = "There are no engravings."
